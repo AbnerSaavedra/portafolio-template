@@ -12,7 +12,7 @@
         "github": "https://github.com/AbnerSaavedra",
         "likedin": "https://www.linkedin.com/in/abner-saavedra/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un ingeniero en informática decidido a aprender cada día mas acerca del desarrollo de software. Que entiende y aplica las mejores tecnologías para crear un software de calidad; sin dejar de lado las mejores prácticas y metodologías ágiles de desarrollo.",
     "technologies": [
         {
             "icon": "devicon-javascript-plain",
@@ -38,70 +38,70 @@
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Desarrollador frontend",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Digevo ventures",
+            "subtitle": "Desarrollador fullstack NodeJS/Angular",
+            "description": "Migración de Wordpress a NodeJS/Angular",
+            "date": "2021"
         },
         {
             "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "title": "Experteam Cía Ltda",
+            "subtitle": "Desarrollador frontend Angular en Experteam Cía Ltda",
+            "description": "Integración y consumo de servicios API REST",
+            "date": "2022"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Evolution2",
+            "subtitle": "Software propiedad de Digevo ventures",
+            "description": "E-learning que apoya el proceso de asesoría personalizada mediante cursos de interés",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-nodejs-plain",
+                    "name": "NodeJS"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "image": "/evolution2.jpg",
+            "url": "https://evolution.digevoventures.com/",
             "github": "https://github.com/thomasanderson"
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "cdsautomatico",
+            "subtitle": "Software propiedad de cdsautomatico.",
+            "description": "Software para gestionar estacionamiento para camiones de carga pesada.",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
                     "name": "Binario"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "image": "/softcloudlite.jpg",
+            "url": "https://www.cdsautomatico.com/",
             "github": "https://github.com/thomasanderson"
         }
     ],
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
+            "title": "Certifiado de idioma inglés",
+            "subtitle": "Alpha Language Center",
+            "description": "Hablar, escuchar, leer y escribir el idioma inglés",
+            "date": "2015",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
+            "title": "Ingeniería en informática",
+            "subtitle": "UCLA Venezuela",
+            "description": "Ingeniería y desarrollo de software",
+            "date": "2016",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         }
     ],
