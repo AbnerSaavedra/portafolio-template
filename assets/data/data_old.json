@@ -12,7 +12,7 @@
         "github": "https://github.com/AbnerSaavedra",
         "likedin": "https://www.linkedin.com/in/abner-saavedra/"
     },
-    "about": "Ingeniero en informática con mas de 7 años de experiencia en desarrollo de software, tanto en la parte visual como del lado del  servidor  (fullstack  developer).Participando en diversos desarrollos que comprenden páginas web, tiendas virtuales, aplicaciones web y móviles, teniendo la oportunidad de liderar y coordinar equipos de trabajo en diferentes ocasiones.",
+    "about": "Ingeniero en inform&aacute;tica con mas de 7 años de experiencia en desarrollo de software, tanto en la parte visual como del ladodel  servidor  (fullstack  developer).  Participando  en  diversosdesarrollos que comprenden páginas web, tiendas virtuales,aplicaciones web y móviles, teniendo la oportunidad de liderary coordinar equipos de trabajo en diferentes ocasiones.",
     "technologies": [
         {
             "icon": "devicon-javascript-plain",
@@ -39,36 +39,36 @@
         {
             "icon": "terminal",
             "title": "Gracosoft",
-            "subtitle": "Instructor de programación y desarrollo de software",
-            "description": "Instructor de programación en Python, Bases de datos no relaciones MongoDB y desarrollo de APIS REST con framework Python FastAPI.",
+            "subtitle": "Instructor de programaci&oacute;n y desarrollo de software",
+            "description": "Instructor de programaci&oacute;n en Python, Bases de datos no relaciones MongoDB y desarrollo de APIS REST con framework Python FastAPI.",
             "date": "2024"
         },
         {
             "icon": "terminal",
             "title": "Ragatex",
             "subtitle": "Desarrollador fullstack NodeJS/Angular",
-            "description": "Desarrollo e integración de servicios API REST, desarrollo e integración de componentes software.",
+            "description": "Desarrollo e integraci&oacute;n de servicios API REST, desarrollo e integraci&oacute;n de componentes software.",
             "date": "2023"
         },
         {
             "icon": "rabbit",
             "title": "Experteam Cía Ltda",
             "subtitle": "Desarrollador frontend Angular en Experteam Cía Ltda",
-            "description": "Integración y consumo de servicios API REST",
+            "description": "Integraci&oacute;n y consumo de servicios API REST",
             "date": "2022"
         },
         {
             "icon": "rabbit",
             "title": "Experteam Cía Ltda",
             "subtitle": "Desarrollador frontend Angular en Experteam Cía Ltda",
-            "description": "Integración y consumo de servicios API REST",
+            "description": "Integraci&oacute;n y consumo de servicios API REST",
             "date": "2022"
         },
         {
             "icon": "terminal",
             "title": "Digevo ventures",
             "subtitle": "Desarrollador fullstack NodeJS/Angular",
-            "description": "Migración de Wordpress a NodeJS/Angular",
+            "description": "Migraci&oacute;n de Wordpress a NodeJS/Angular",
             "date": "2021"
         }
     ],
@@ -118,7 +118,7 @@
                     "name": "Java"
                 }
             ],
-            "image": "/sistemaTeide.jpg",
+            "image": "/sistemaTeide - copia_resized_resized.jpg",
             "url": "https://www.cdsautomatico.com/",
             "github": "https://github.com/thomasanderson"
         }
@@ -134,11 +134,31 @@
         },
         {
             "icon": "backpack",
-            "title": "Certificado de idioma inglés",
+            "title": "Certificado de idioma ingl&eacute;s",
             "subtitle": "Alpha Language Center",
-            "description": "Hablar, escuchar, leer y escribir el idioma inglés",
+            "description": "Hablar, escuchar, leer y escribir el idioma ingl&eacute;s",
             "date": "2015",
             "certificate": ""
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
         }
     ]
 }
