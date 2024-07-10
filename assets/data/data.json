@@ -86,7 +86,7 @@
             "github": "https://github.com/AbnerSaavedra"
         },
         {
-            "icon": "bug-off",
+            "icon": "bar-chart-4",
             "title": "cdsautomatico",
             "subtitle": "Software propiedad de cdsautomatico.",
             "description": "Software de gestión de estacionamiento para camiones de carga pesada.",
@@ -101,7 +101,7 @@
             "github": "https://github.com/AbnerSaavedra"
         },
         {
-            "icon": "bug-off",
+            "icon": "bar-chart-4",
             "title": "UCLA Venezuela",
             "subtitle": "Software de trabajo de grado.",
             "description": "Software para gestionar eventos y logística del club Canario Larense.",
