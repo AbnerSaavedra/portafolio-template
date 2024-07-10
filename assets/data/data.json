@@ -81,9 +81,9 @@
                     "name": "NodeJS"
                 }
             ],
-            "image": "/evolution2.jpg",
+            "image": "/sistemaEvolution2.jpg",
             "url": "https://evolution.digevoventures.com/",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/AbnerSaavedra"
         },
         {
             "icon": "bug-off",
@@ -98,7 +98,7 @@
             ],
             "image": "/softcloudlite.jpg",
             "url": "https://www.cdsautomatico.com/",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/AbnerSaavedra"
         },
         {
             "icon": "bug-off",
@@ -113,7 +113,7 @@
             ],
             "image": "/sistemaTeide.jpg",
             "url": "https://www.cdsautomatico.com/",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/AbnerSaavedra"
         }
     ],
     "training": [
