@@ -51,14 +51,7 @@
             "date": "2023"
         },
         {
-            "icon": "rabbit",
-            "title": "Experteam Cía Ltda",
-            "subtitle": "Desarrollador frontend Angular en Experteam Cía Ltda",
-            "description": "Integración y consumo de servicios API REST",
-            "date": "2022"
-        },
-        {
-            "icon": "rabbit",
+            "icon": "terminal",
             "title": "Experteam Cía Ltda",
             "subtitle": "Desarrollador frontend Angular en Experteam Cía Ltda",
             "description": "Integración y consumo de servicios API REST",
